@@ -39,7 +39,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 <hr>
 
 ## Jobs and Internships
-<i>See my [resume](Resume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
+<i>See my [resume](Resume_BlueMargin.pdf) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
