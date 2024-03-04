@@ -25,7 +25,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
+      <img src="daniels-campus.jpg" height="460">
       <br><i>Daniels Distinction Presentation April 2022</i>
       </td>
   </tr>
@@ -40,7 +40,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 <hr>
 
 ## Jobs and Internships
-<i>See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
+<i>See my [resume](Resume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
