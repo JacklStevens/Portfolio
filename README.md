@@ -104,19 +104,20 @@ As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible f
 ## Work Examples
 Here I have compiled some of my work highlighting my experiences throughout my undergraduate years. 
 
-<table>
-  <tr>
-    <td>
-      <img src="images/ERD.png" height="460">
-      <img src="images/AppMain.png" height="318">
-      <img src="images/App1.png" height="318">
-      <img src="images/App2.png" height="318">
 
-      <br><i></i>
-      </td>
-  </tr>
-</table>
+  
+       Resturant Database Managment Application and Chat Bot:
 
+Below is the application that I created for a resturant database that I created inspired by one of my previous employers, Drake. Drake is a small resturant in Bend, OR and I was a line cook there for many years. Resturants in general are very unorganized and a non data driven industry, which inspired me to try to make them more organized. Below is the ERD for my database followed by the applications home page and a couple of the subsequent pages. I created the database in Microsoft SQL Server and the Application in Visual Studio using C#. The first subsequent page shows how I was able to alter customer data through the application. The next is a page that shows orders by customer selected.
+      
+<br>  
+  <img src="ERD.png" height="275"> <img src="AppMain.png" height="275"> <img src="App1.png" height="318"> <img src="App2.png" height="318">
+
+      
+My favorite part of this project however was the Chat Bot that I created for Drake that I named "DrakeGPT". This bot was connected to the database and could answer any question that was surrounding the orders, customers, ingredients and dishes.
+
+<br>  
+  <img src="DrakeGPT.png" height="460">
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
