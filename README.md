@@ -127,6 +127,13 @@ For the same database in a different class project, we created a data warehouse 
 <br>  
   <img src="ERDWare.png" height="275"> <img src="Report1.png" height="275"> <img src="Report 2.png" height="318">
 
+        Optimization using Python:
+
+This was a recent project using python to optimize a problem regarding students and what cars they recive. 
+
+<br>
+  <img src="" height="275">
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="profExp"></a>
