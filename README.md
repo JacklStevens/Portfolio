@@ -127,20 +127,19 @@ For the same database in a different class project, we created a data warehouse 
 <br>  
   <img src="ERDWare.png" height="275"> <img src="Report1.png" height="275"> <img src="Report 2.png" height="318">
 
-        Optimization using Python:
 
-This was a recent project using python to optimize a problem regarding students and what cars they recive. 
 
-<br>
-  <img src="" height="275">
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="profExp"></a>
 <hr>
 
-## Jobs and Internships
-<i>See my [resume](Resume_BlueMargin.pdf) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)</i>
+## Internship at Precise Flight (Summer 2023)
+
+During this past summer, I had the ammazing oppertunity to be a information systems intern at Precise Flight in Bend, Oregon. Precise Flight is a aerospace industry leader for many parts of the aircraft being a vital part in the designs of 737's, 747's, Cessnas and much more. During my time there my main goal was to create a vault to hold all of their Engineering Drawings to more carefully be able to keep track of revisions and organization. I completed this task much faster than expected and was rewarded with some very intersting challenges. I was tasked with two Engineering tasks, with no prior experience, that were previously being completed by the mechanical and electrical engineer respectivley. The first task was to find replacements for parts that were going to end of life on the supply chain, however were needed to continue production of our products. By researching and using Artificial Intelegence I navigated supply chain databases to find suitable replacements and recommend them to upper managment. The other project was reciving 3D models of oxygen tubes from aircraft manufactures and overlay an outline of them onto a new Autodesk Inventor file. Ensuring these overlays had the correct angles and bends was essential for out tube benders downstairs to be able to asses their bends before being sent to the manufacturers to be installed on commercial planes. These challenges made me confident that my fast learning and adapting skills can translate to any position or title that I may hold in the future.
+
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
