@@ -51,7 +51,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
         <li><a href = CertExcel.pdf>Microsoft Excel 2019</a></li>
         <li><a href = CertWord.pdf>Microsoft Expert Word 2019</a></li>
         <li><a href = CertPowerPoint.pdf>Microsoft PowerPoint 2019</a></li>
-       <li><a href = CertOffice>Microsoft Office 2019</a></li>
+       <li><a href = CertOffice.pdf>Microsoft Office 2019</a></li>
       </ul>
     </td>
   </tr>
