@@ -1,12 +1,13 @@
 <a name="top"></a>
 <hr>
 
-## Daniels Distinction Portfolio
+## Business Information and Analytics Portfolio
 <i>Jack Stevens – March 2024</i>
 
-[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
-[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#WorkExamples)
-[<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
+<a href="#skills">Skills</a>
+<a href="#WorkExamples">Work Examples</a>
+<a href="#profExp">Professional Experience</a>
+
 
 
 
@@ -108,13 +109,14 @@ Here I have compiled some of my work highlighting my experiences throughout my u
   
        Resturant Database Managment Application and Chat Bot:
 
-Below is the application that I created for a resturant database that I created inspired by one of my previous employers, Drake. Drake is a small resturant in Bend, OR and I was a line cook there for many years. Resturants in general are very unorganized and a non data driven industry, which inspired me to try to make them more organized. Below is the ERD for my database followed by the applications home page and a couple of the subsequent pages. I created the database in Microsoft SQL Server and the Application in Visual Studio using C#. The first subsequent page shows how I was able to alter customer data through the application. The next is a page that shows orders by customer selected.
+Below is the application that I created for a restaurant database that I created inspired by one of my previous employers, Drake. Drake is a small restaurant in Bend, OR and I was a line cook there for many years. Restaurants in general are very unorganized and a non data driven industry, which inspired me to try to make them more organized. Below is the ERD for my database followed by the applications home page and a couple of the subsequent pages. I created the database in Microsoft SQL Server and the Application in Visual Studio using C#. The first subsequent page shows how I was able to alter customer data through the application. The next is a page that shows orders by customer selected.
+
       
 <br>  
   <img src="ERD.png" height="350"> <img src="AppMain.png" height="275"> <img src="App1.png" height="318"> <img src="App2.png" height="275">
 
       
-My favorite part of this project however was the Chat Bot that I created for Drake that I named "DrakeGPT". This bot was connected to the database and could answer any question that was surrounding the orders, customers, ingredients and dishes.
+My favorite part of this project however was the Chatbot that I created for Drake that I named "DrakeGPT". This bot was connected to the database and could answer any question that was surrounding the orders, customers, ingredients and dishes.
 
 <br>  
   <img src="DrakeGPT.png" height="460">
