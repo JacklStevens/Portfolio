@@ -16,9 +16,12 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <ul>
   <li><b>National Society of Leadership and Success</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
 
-<hr>
+
 <a name="DanielsDistinction"></a>
-### Daniels Distinction Portfolio
+
+<hr>
+
+## Daniels Distinction Portfolio
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
 <table>
