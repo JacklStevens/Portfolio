@@ -15,7 +15,8 @@
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
 <ul>
-  <li><b>National Society of Leadership and Success</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
+  <li><b>National Society of Leadership and Success</b>: Candidacy is a nationally recognized achievement of honorable distinction.</li>
+  <li><b>Pi Kappa Phi Historian</b>: July 2022-December 2023</li>
 
 
 
