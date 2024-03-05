@@ -5,7 +5,9 @@
 <i>Jack Stevens – March 2024</i>
 
 <a href="#skills">Skills</a>
+<br>
 <a href="#WorkExamples">Work Examples</a>
+<br>
 <a href="#profExp">Professional Experience</a>
 
 
