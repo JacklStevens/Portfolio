@@ -119,6 +119,14 @@ My favorite part of this project however was the Chat Bot that I created for Dra
 <br>  
   <img src="DrakeGPT.png" height="460">
 
+
+        Resturant Database Data Warehouse and Reporting:
+
+For the same database in a different class project, we created a data warehouse in Microsoft SQL Server and relevant reports using VBA and PowerBI. 
+
+<br>  
+  <img src="ERD.png" height="275"> <img src="AppMain.png" height="275"> <img src="App1.png" height="318"> <img src="App2.png" height="318">
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="profExp"></a>
