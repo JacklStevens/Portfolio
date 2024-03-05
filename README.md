@@ -18,7 +18,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>National Society of Leadership and Success</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
 
 
-<a name="DanielsDistinction"></a>
+
 
 <a name="skills"></a>
 <hr>
@@ -81,6 +81,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
+<a name="DanielsDistinction"></a>
 
 <hr>
 
