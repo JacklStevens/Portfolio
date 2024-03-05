@@ -34,7 +34,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible for not only alumni outreach and engagement but also designing and creating merchindise and advertisements for events. During my time as the Historian we had many notable achivements from selling out a 700 person venue for a philanthropy concert to growing the chapter by over 70% and becoming the largest fraternity on campus. The only way this was possible was through the teamwork and leadership of the whole executive board, and this oppertunity facilitated personal and professional growth. I further developed my skills in communication, advertising, designing and leading. However, the most rewarding aspect of the role was the growth of the chapter as well as those around me.
 
 <br>
- <img src="IMG_3776.jpeg" height="350"> <img src="IMG_3778.jpeg" height="350">
+ <img src="IMG_3776.jpeg" height="318"> <img src="IMG_3778.jpeg" height="318"> <img src="IMG_3712.jpeg" height="318">
 
 <a name="skills"></a>
 <hr>
@@ -57,8 +57,9 @@ As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible f
         <li>Microsoft SQL Server Management Studio</li>
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
-       <li>PowerBI</li>
-        <li>Trello</li>
+        <li>PowerBI</li>
+        <li>C#</li>
+        <li>JMP</li>
       </ul>
     </td>
     <td>
@@ -72,22 +73,21 @@ As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible f
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
+    <th>Precice Flight Strengths (Summer 2023)</th>
     <th>Other Skills</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Responsibility</li>
+        <li>Detail Oriented</li>
         <li>Learner</li>
-        <li>Discipline</li>
+        <li>Teamwork</li>
         <li>Developer</li>
-        <li>Achiever</li>
      </ol>
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
+        <li>AutoCAD Software</li>
         <li>Facilitating</li>
        <li>Problem Solving</li>
      </ul>
@@ -102,7 +102,7 @@ As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible f
 <hr>
 
 ## Work Examples
-In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+In pursuing a degree in Business Information and Analytics from the University of Denver, I compiled some of my work highlighting my experiences throughout my undergraduate years. 
 
 <table>
   <tr>
