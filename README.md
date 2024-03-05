@@ -31,7 +31,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 ### Community Engagement and Leadership
 
-As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible for not only alumni outreach and engagement but also designing and creating merchindise and advertisements for events. During my time as the Historian we had many notable achivements from selling out a 700 person venue for a philanthropy concert to growing the chapter by over 70% and becoming the largest fraternity on campus. The only way this was possible was through the teamwork and leadership of the whole executive board, and this oppertunity facilitated personal and professional growth. I further developed my skills in communication, advertising, designing and leading. However, the most rewarding aspect of the role was the growth of the chapter as well as those around me.
+As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible for not only alumni outreach and engagement but also designing and creating merchandise as well as advertisements for events. During my time as the Historian we had many notable achievements, from selling out a 700 person venue for a philanthropy concert to growing the chapter by over 70% and becoming the largest fraternity on campus. The only way this was possible was through the teamwork and leadership of the whole executive board, and this opportunity facilitated personal and professional growth. I further developed my skills in communication, advertising, designing and leading. However, the most rewarding aspect of the role was the growth of the chapter as well as those around me.
 
 <br>
  <img src="IMG_3776.jpeg" height="318"> <img src="IMG_3778.jpeg" height="318"> <img src="IMG_3712.jpeg" height="318">
@@ -137,10 +137,11 @@ For the same database in a different class project, we created a data warehouse 
 
 ## Internship at Precise Flight (Summer 2023)
 
-During this past summer, I had the ammazing oppertunity to be a information systems intern at Precise Flight in Bend, Oregon. Precise Flight is a aerospace industry leader for many parts of the aircraft being a vital part in the designs of 737's, 747's, Cessnas and much more. During my time there my main goal was to create a vault to hold all of their Engineering Drawings to more carefully be able to keep track of revisions and organization. I completed this task much faster than expected and was rewarded with some very intersting challenges. I was tasked with two Engineering tasks, with no prior experience, that were previously being completed by the mechanical and electrical engineer respectivley. The first task was to find replacements for parts that were going to end of life on the supply chain, however were needed to continue production of our products. By researching and using Artificial Intelegence I navigated supply chain databases to find suitable replacements and recommend them to upper managment. The other project was reciving 3D models of oxygen tubes from aircraft manufactures and overlay an outline of them onto a new Autodesk Inventor file. Ensuring these overlays had the correct angles and bends was essential for out tube benders downstairs to be able to asses their bends before being sent to the manufacturers to be installed on commercial planes. These challenges made me confident that my fast learning and adapting skills can translate to any position or title that I may hold in the future.
+As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible for not only alumni outreach and engagement but also designing and creating merchandise as well as advertisements for events. During my time as the Historian we had many notable achievements, from selling out a 700 person venue for a philanthropy concert to growing the chapter by over 70% and becoming the largest fraternity on campus. The only way this was possible was through the teamwork and leadership of the whole executive board, and this opportunity facilitated personal and professional growth. I further developed my skills in communication, advertising, designing and leading. However, the most rewarding aspect of the role was the growth of the chapter as well as those around me.
+
 
 <br>  
-  <img src="PFIlogo.png" height="275"> <img src="TubeEx.png" height="275">
+  <img src="PFIlogo.png" height="275"> <img src="TubeEx.jpg" height="275">
 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
