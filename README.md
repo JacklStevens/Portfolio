@@ -33,7 +33,8 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible for not only alumni outreach and engagement but also designing and creating merchindise and advertisements for events. During my time as the Historian we had many notable achivements from selling out a 700 person venue for a philanthropy concert to growing the chapter by over 70% and becoming the largest fraternity on campus. The only way this was possible was through the teamwork and leadership of the whole executive board, and this oppertunity facilitated personal and professional growth. I further developed my skills in communication, advertising, designing and leading. However, the most rewarding aspect of the role was the growth of the chapter as well as those around me.
 
-
+<br>
+ <img src="IMG_3776.jpeg" height="350"> <img src="IMG_3778.jpeg" height="350">
 
 <a name="skills"></a>
 <hr>
