@@ -107,9 +107,10 @@ Here I have compiled some of my work highlighting my experiences throughout my u
 <table>
   <tr>
     <td>
-      <img src="ERD.jpg" height="460">
-
-      <img src="App1.jpeg" height="318"> <img src="IMG_3778.jpeg" height="318"> <img src="IMG_3712.jpeg" height="318">
+      <img src="images/ERD.png" height="460">
+      <img src="images/AppMain.png" height="318">
+      <img src="images/App1.png" height="318">
+      <img src="images/App2.png" height="318">
 
       <br><i></i>
       </td>
