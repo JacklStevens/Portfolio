@@ -102,7 +102,7 @@ As the Historian of the Epsilon Chi chapter of Pi Kappa Phi, I was responsible f
 <hr>
 
 ## Work Examples
-In pursuing a degree in Business Information and Analytics from the University of Denver, I compiled some of my work highlighting my experiences throughout my undergraduate years. 
+Here I have compiled some of my work highlighting my experiences throughout my undergraduate years. 
 
 <table>
   <tr>
@@ -113,7 +113,6 @@ In pursuing a degree in Business Information and Analytics from the University o
   </tr>
 </table>
 
-[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/DanielsDistinctionPortfolio/#top)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
