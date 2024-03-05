@@ -18,7 +18,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 
 <a name="DanielsDistinction"></a>
-#### Daniels Distinction Portfolio
+### Daniels Distinction Portfolio
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
 <table>
