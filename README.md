@@ -15,7 +15,7 @@
 
 <hr>
 
-See my [Resume](Resume_BlueMargin.pdf) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)
+See my [Resume](Resume.docx) and [LinkedIn](https://www.linkedin.com/in/jacklstevens/)
 
 ## Education
 ### Univeristy of Denver, Daniels College of Business
